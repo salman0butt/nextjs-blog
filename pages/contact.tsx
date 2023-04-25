@@ -15,26 +15,26 @@ const Contact: NextPage = () => {
               industry.
             </p>
             <div className="flex items-center">
-              <p className="text-base">kiran@boxyhq.com</p>
+              <p className="text-base">temp@gmail.com</p>
             </div>
             <div className="flex items-center">
               <p className="text-base">
                 Website:
-                <a href="https://www.kirandev.com/">&nbsp;kirandev.com</a>
+                <a href="https://www.kirandev.com/">&nbsp;temper.com</a>
               </p>
             </div>
             <div className="flex items-center">
               <p className="text-base">
                 Twitter:
                 <a href="https://twitter.com/tokirankrishnan">
-                  &nbsp;@tokirankrishnan
+                  &nbsp;@temper
                 </a>
               </p>
             </div>
             <div className="flex items-center">
               <p className="text-base">
                 GitHub:
-                <a href="https://github.com/devkiran">&nbsp;@devkiran</a>
+                <a href="https://github.com/devkiran">&nbsp;@temper</a>
               </p>
             </div>
           </div>
